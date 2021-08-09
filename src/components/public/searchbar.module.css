@@ -1,0 +1,11 @@
+
+.mainbox{
+    background: transparent;
+    height: 500px;
+    padding-top: 150px;
+}
+.box{
+    background-color: white;
+    height: 200px;
+    border-radius: 5px;
+}
